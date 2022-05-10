@@ -1,6 +1,6 @@
 # NNED_MMGraph
 
-Neural Named Entity Disambiguation via MMGraph (together with SimTri).
+Neural Named Entity Disambiguation via MMGraph.
 
 This is an implementation of Self-supervised Enhancement for Named Entity Disambiguation via Multimodal Graph Convolution in Python. It needs pytorch libraries to be installed.
 
